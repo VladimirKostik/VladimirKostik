@@ -17,8 +17,8 @@ HTML5 • CSS3 (Flex/Grid) • JavaScript (ES6+) • Git/GitHub • VS Code
 ## 📂 Портфоліо (приклади)
 
 - Галерея зображень (SimpleLightbox, пагінація) – https://vladimirkostik.github.io/goit-js-hw-12/
-- Лендінг товару – _посилання додам_
-- Невеликий JS-віджет – _посилання додам_
+- Лендінг товару – https://vladimirkostik.github.io/goit-markup-hw-06/
+- Невеликий JS-віджет – https://vladimirkostik.github.io/rentprice/
 
 ---
 
